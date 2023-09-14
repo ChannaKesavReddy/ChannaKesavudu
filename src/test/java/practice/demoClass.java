@@ -12,6 +12,7 @@ public class demoClass {
 		WebDriver driver=new EdgeDriver();
 		driver.get("https://www.google.com");
 
-	}
+		//anusha
+	 }
 
 }
